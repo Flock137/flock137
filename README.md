@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building a "proper" DFIR VM and custom Forensics USBs (Medicat and custom live OS)
 - 🌱 Currently teaching myself Digital Forensics
 - 📫 You may reach me through my Telegram: @Flock137
-- I use ~~Arch~~ EndeavourOS, btw 
+- ![](https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/b53c4b90276e77d530785cb60d33c6bc3cc02f45/icons/endeavour-logo-sans-logotype.svg) I use ~~Arch~~ EndeavourOS, btw 
