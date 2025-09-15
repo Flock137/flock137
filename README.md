@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi ~
 
 <!--
 **Flock137/flock137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on building a "proper" DFIR VM and custom Forensics USBs (Medicat and custom live OS)
+- 🌱 Currently teaching myself Digital Forensics
+- 📫 You may reach me through my Telegram: @Flock137
+- I use ~~Arch~~ EndeavourOS, btw 
