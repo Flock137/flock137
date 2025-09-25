@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Hacking AI Agent and cracking some apps (it's legal, don't worry)
 - 🌱 Currently teaching myself Digital Forensics
-- 📫 You may reach me through my email: 23ha.dt@vinuni.edu.vn
+- 📫 You may reach me through my email: hadinhworks@gmail.com
+- 🚩 Holmes CTF
 - 🌌 I use ~~Arch~~ EndeavourOS, btw 
