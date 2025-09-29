@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Hacking AI Agent and cracking some apps (it's legal, don't worry)
+- 🔭 I’m currently working on my broken VirtualBox and other related tasks 
 - 🌱 Currently teaching myself Digital Forensics
 - 📫 You may reach me through my email: hadinhworks@gmail.com
-- 🚩 Holmes CTF
+- 🚩 Flare-on 2025
 - 🌌 I use ~~Arch~~ EndeavourOS, btw 
