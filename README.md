@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my broken VirtualBox and other related tasks 
+- 🔭 I’m currently working on an automation script
 - 🌱 Currently teaching myself Digital Forensics
 - 📫 You may reach me through my email: hadinhworks@gmail.com
-- 🚩 Flare-on 2025
-- 🌌 I use ~~Arch~~ EndeavourOS, btw 
+- 🚩 Flare-on 2025, HuntressCTF 
+- 🌌 I use EndeavourOS, btw 
