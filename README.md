@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on an automation script
+- 🔭 I’m currently working on:
+  - 🖥️ An automation script to join EndeavourOS and BlackArch repo together for the most efficient PenTest/CyberSec VM
+  - ♆⚡ A custom script helper USB
 - 🌱 Currently teaching myself Digital Forensics
 - 📫 You may reach me through my email: hadinhworks@gmail.com
 - 🚩 Flare-on 2025, HuntressCTF 
