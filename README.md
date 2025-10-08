@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-  - 🖥️ An automation script to join EndeavourOS and BlackArch repo together for the most efficient PenTest/CyberSec VM
   - ⚡ A custom helper-scripts USB
   - 🤖 Hmm... I still want a custom (local) AI agent
 - 🌱 Currently teaching myself Digital Forensics
