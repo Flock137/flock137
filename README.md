@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-  - ⚡ A custom helper-scripts USB
-  - 🤖 Hmm... I still want a custom (local) AI agent
-- 🌱 Currently teaching myself Digital Forensics
+  - TBA, I'm considering a couple of things
+- 🌱 Currently teaching myself Digital Forensics and some Reverse Engineering
 - 📫 You may reach me through my email: hadinhworks@gmail.com
-- 🚩 Flare-on 2025, HuntressCTF 
+- 🚩 Flare-on 2025
 - 🌌 I use EndeavourOS, btw 
