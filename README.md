@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
   - TBA, I'm considering a couple of things
-- 🌱 Currently teaching myself Digital Forensics and some Reverse Engineering
+- 🌱 Currently teaching myself Red Teaming, mainly Pwn/Rev and Hardware
 - 📫 You may reach me through my email: hadinhworks@gmail.com
-- 🚩 Flare-on 2025
+- 🚩 Advent of Cyber 2025, Advent of Code 2025
 - 🌌 I use EndeavourOS, btw 
