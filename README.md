@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on:
-  - TBA, I'm considering a couple of things
+- 🔭 I’m currently working on: TBA
 - 🌱 Currently teaching myself Red Teaming, mainly Pwn/Rev and Hardware
 - 📫 You may reach me through my email: hadinhworks@gmail.com
 - 🚩 Advent of Cyber 2025, Advent of Code 2025
