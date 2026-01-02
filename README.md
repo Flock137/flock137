@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on: My blogs, for now
-- 🌱 Currently teaching myself Red Teaming, mainly Pwn/Rev and Hardware
+- 🌱 Currently teaching myself Pwn/Rev, Hardware and Forensics (yes, I love Misc)
 - 📫 You may reach me through my email: hadinhworks@gmail.com
 - 🚩 TBA, halted until February
 - 🌌 I use EndeavourOS, btw 
